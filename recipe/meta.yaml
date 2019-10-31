@@ -28,7 +28,8 @@ about:
   license_family: "MIT"
   license_file: LICENSE.txt
   summary: "Contexter: A better contextlib"
-  description: "Contexter is a full replacement of the contextlib standard library
-module. It comes with more features, a nicer API and full support for
-Python 2.5 up to 3.x from a single source file."
+  description: |
+    Contexter is a full replacement of the contextlib standard library module.
+    It comes with more features, a nicer API and full support for Python 2.5 up
+    to 3.x from a single source file.
 
