@@ -5,10 +5,13 @@ Home: https://bitbucket.org/defnull/contexter
 
 Package license: MIT
 
-Feedstock license: BSD 3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/nsls-ii-forge/contexter-feedstock/blob/master/LICENSE.txt)
 
-Summary: Contexter is a full replacement of the contextlib standard library module. It comes with more features, a nicer API and full support for Python 2.5 up to 3.x from a single source file.
+Summary: Contexter: A better contextlib
 
+Contexter is a full replacement of the contextlib standard library module.
+It comes with more features, a nicer API and full support for Python 2.5 up
+to 3.x from a single source file.
 
 
 Current build status
